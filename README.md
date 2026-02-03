@@ -165,5 +165,8 @@ This project is ideal for:
 ---
 
 ## 👨‍💻 Author
-**Paila Jeevan**  
+- 👨‍💻 **Developer:** Paila Jeevan
+- 📧 **Email:** pailajeevan21@gmail.com
+- 🌐 **GitHub:**
+https://github.com/PailaJeevan  
 Automated Document Processing & Python Automation System
