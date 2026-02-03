@@ -1,0 +1,67 @@
+2026-01-23 20:47:59,548 | INFO | Test log entry
+2026-01-23 20:47:59,548 | ERROR | Test error entry
+2026-01-23 22:00:39,124 | ERROR | employee_leave.docx | ERROR | Package not found at 'input_documents\employee_leave.docx'
+2026-01-23 22:00:39,141 | INFO | invoice.txt | Finance | Processed Successfully
+2026-01-23 22:13:14,153 | ERROR | employee_leave.docx | ERROR | Package not found at 'input_documents\employee_leave.docx'
+2026-01-23 22:13:14,159 | INFO | invoice.txt | Finance | Processed Successfully
+2026-01-23 22:16:38,788 | ERROR | employee_leave.docx | ERROR | Package not found at 'input_documents\employee_leave.docx'
+2026-01-23 22:16:38,788 | ERROR | invoice.txt | ERROR | name 'ReportGenerator' is not defined
+2026-01-23 22:17:14,893 | ERROR | employee_leave.docx | ERROR | Package not found at 'input_documents\employee_leave.docx'
+2026-01-23 22:17:14,895 | ERROR | invoice.txt | ERROR | name 'ReportGenerator' is not defined
+2026-01-23 22:18:29,316 | ERROR | employee_leave.docx | ERROR | Package not found at 'input_documents\employee_leave.docx'
+2026-01-23 22:18:29,316 | ERROR | invoice.txt | ERROR | name 'ReportGenerator' is not defined
+2026-01-27 10:45:30,488 | ERROR | employee_leave.docx | ERROR | Package not found at 'input_documents\employee_leave.docx'
+2026-01-27 10:45:30,492 | ERROR | invoice.txt | ERROR | name 'ReportGenerator' is not defined
+2026-01-27 10:46:19,096 | ERROR | employee_leave.docx | ERROR | Package not found at 'input_documents\employee_leave.docx'
+2026-01-27 10:46:19,113 | INFO | invoice.txt | Finance | Processed Successfully
+2026-01-27 10:55:42,247 | ERROR | employee_leave.docx | ERROR | Package not found at 'input_documents\employee_leave.docx'
+2026-01-27 10:55:42,266 | INFO | invoice.txt | Finance | Processed Successfully
+2026-01-27 10:56:44,515 | ERROR | employee_leave.docx | ERROR | Package not found at 'input_documents\employee_leave.docx'
+2026-01-27 10:56:44,522 | INFO | invoice.txt | Finance | Processed Successfully
+2026-01-27 10:57:42,774 | INFO | employee_leave.txt | HR | Processed Successfully
+2026-01-27 10:57:42,778 | INFO | invoice.txt | Finance | Processed Successfully
+2026-01-27 11:07:54,904 | INFO | employee_leave.txt | HR | Processed Successfully
+2026-01-27 11:07:54,913 | INFO | invoice.txt | Finance | Processed Successfully
+2026-01-27 11:07:54,935 | INFO | meeting_minutes.pdf | Unknown | Processed Successfully
+2026-01-27 11:07:54,961 | INFO | project_proposal.docx | Unknown | Processed Successfully
+2026-01-27 11:07:54,977 | INFO | sales_report.xlsx | Unknown | Processed Successfully
+2026-01-27 11:13:07,048 | INFO | employee_leave.txt | HR | Processed Successfully
+2026-01-27 11:13:07,058 | INFO | invoice.txt | Finance | Processed Successfully
+2026-01-27 11:13:07,103 | INFO | meeting_minutes.pdf | Unknown | Processed Successfully
+2026-01-27 11:13:07,131 | INFO | project_proposal.docx | Unknown | Processed Successfully
+2026-01-27 11:13:07,157 | INFO | sales_report.xlsx | Unknown | Processed Successfully
+2026-01-27 12:12:16,835 | INFO | employee_leave.txt | HR | Processed Successfully
+2026-01-27 12:12:16,854 | INFO | invoice.txt | Finance | Processed Successfully
+2026-01-27 12:12:16,876 | INFO | meeting_minutes.pdf | Unknown | Processed Successfully
+2026-01-27 12:12:16,909 | INFO | project_proposal.docx | Unknown | Processed Successfully
+2026-01-27 12:12:16,944 | INFO | sales_report.xlsx | Unknown | Processed Successfully
+2026-01-27 12:12:42,401 | INFO | employee_leave.txt | HR | Processed Successfully
+2026-01-27 12:12:42,410 | INFO | invoice.txt | Finance | Processed Successfully
+2026-01-27 12:12:42,434 | INFO | meeting_minutes.pdf | Unknown | Processed Successfully
+2026-01-27 12:12:42,451 | INFO | project_proposal.docx | Unknown | Processed Successfully
+2026-01-27 12:12:42,464 | INFO | sales_report.xlsx | Unknown | Processed Successfully
+2026-01-29 21:15:54,691 | INFO | employee_leave.txt | HR | Processed Successfully
+2026-01-29 21:15:54,702 | INFO | invoice.txt | Finance | Processed Successfully
+2026-01-29 21:15:54,722 | INFO | meeting_minutes.pdf | Unknown | Processed Successfully
+2026-01-29 21:15:54,759 | INFO | project_proposal.docx | Unknown | Processed Successfully
+2026-01-29 21:15:54,782 | INFO | sales_report.xlsx | Unknown | Processed Successfully
+2026-01-29 21:17:52 | INFO | employee_leave.txt | HR | Processed Successfully | main.py:98
+2026-01-29 21:17:52 | INFO | invoice.txt | Finance | Processed Successfully | main.py:98
+2026-01-29 21:17:52 | INFO | meeting_minutes.pdf | Unknown | Processed Successfully | main.py:98
+2026-01-29 21:17:52 | INFO | project_proposal.docx | Unknown | Processed Successfully | main.py:98
+2026-01-29 21:17:52 | INFO | sales_report.xlsx | Unknown | Processed Successfully | main.py:98
+2026-02-03 14:28:22 | INFO | employee_leave.txt | HR | Processed Successfully | main.py:98
+2026-02-03 14:28:22 | INFO | invoice.txt | Finance | Processed Successfully | main.py:98
+2026-02-03 14:28:22 | INFO | meeting_minutes.pdf | Unknown | Processed Successfully | main.py:98
+2026-02-03 14:28:22 | INFO | project_proposal.docx | Unknown | Processed Successfully | main.py:98
+2026-02-03 14:28:22 | INFO | sales_report.xlsx | Unknown | Processed Successfully | main.py:98
+2026-02-03 22:01:50 | ERROR | employee_leave.txt | ERROR | 'FileReading' object has no attribute 'read_file'
+2026-02-03 22:01:50 | ERROR | invoice.txt | ERROR | 'FileReading' object has no attribute 'read_file'
+2026-02-03 22:01:50 | ERROR | meeting_minutes.pdf | ERROR | 'FileReading' object has no attribute 'read_file'
+2026-02-03 22:01:50 | ERROR | project_proposal.docx | ERROR | 'FileReading' object has no attribute 'read_file'
+2026-02-03 22:01:50 | ERROR | sales_report.xlsx | ERROR | 'FileReading' object has no attribute 'read_file'
+2026-02-03 22:04:43 | INFO | employee_leave.txt | HR | Processed Successfully
+2026-02-03 22:04:43 | INFO | invoice.txt | Finance | Processed Successfully
+2026-02-03 22:04:43 | INFO | meeting_minutes.pdf | Unknown | Processed Successfully
+2026-02-03 22:04:43 | INFO | project_proposal.docx | Unknown | Processed Successfully
+2026-02-03 22:04:44 | INFO | sales_report.xlsx | Unknown | Processed Successfully

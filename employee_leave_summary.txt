@@ -1,0 +1,14 @@
+Human Resources Department
+
+Employee Leave Request
+
+Employee Name: Jane Smith
+Employee ID: HR-204
+Leave Start Date: 15/01/2024
+Leave End Date: 20/01/2024
+Reason: Medical Leave
+
+Approved by: Manager
+Date of Approval: 10/01/2024
+
+Please ensure the leave is recorded in the attendance system.

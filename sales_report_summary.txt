@@ -1,0 +1,6 @@
+Product Quantity Price Total 
+Laptop 50 45000 2250000 
+Monitor 100 12000 1200000 
+Keyboard 150 2500 375000 
+Mouse 200 800 160000 
+Total Sales 3985000

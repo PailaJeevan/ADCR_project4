@@ -1,0 +1,6 @@
+Project Proposal
+Project Name: Cloud Migration Initiative
+Start Date: 01/03/2026
+Budget:1 ,000
+Description: This project aims to migrate our on-premise infrastructure to cloud services, improving scalability and reducing operational costs. 
+Expected Completion: 31/12/2026

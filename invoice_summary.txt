@@ -1,0 +1,14 @@
+Invoice Details:
+
+Invoice Number: INV-1023
+Invoice Date: 12/08/2024
+Due Date: 25/08/2024
+Customer: John Doe
+
+Item Description: Laptop
+Quantity: 2
+Price per unit: ₹45,000
+Total Amount: ₹90,000
+
+Please make the payment before the due date. 
+Thank you for your business.
